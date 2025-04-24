@@ -1,2 +1,5 @@
 Console.WriteLine("Name: Hafiz Abdullah");
 Console.WriteLine("Roll No: 24-ST-025");
+a, b = 10, 4 
+result = a - b
+
