@@ -1,2 +1,4 @@
 Console.WriteLine("Name: Hafiz Abdullah");
 Console.WriteLine("Roll No: 24-ST-025");
+int a = 5,b = 7;
+Console.WriteLine("Sum:"+(a+b));
