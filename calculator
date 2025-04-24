@@ -1,5 +1,6 @@
 Console.WriteLine("Name: Hafiz Abdullah");
 Console.WriteLine("Roll No: 24-ST-025");
+ subraction
 multiplication
  division
 a, b = 20, 5
@@ -12,3 +13,7 @@ a, b = 10, 4
 result = a - b
 
  subraction
+
+int a = 5,b = 7;
+Console.WriteLine("Sum:"+(a+b));
+ Addition
