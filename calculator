@@ -1,4 +1,8 @@
 Console.WriteLine("Name: Hafiz Abdullah");
 Console.WriteLine("Roll No: 24-ST-025");
+ division
+a, b = 20, 5
+print(a / b)
 a, b = 6, 7
 print(a * b)
+multiplication
